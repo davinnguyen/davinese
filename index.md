@@ -14,7 +14,7 @@ Here are some newspaper layout that I helped create using InDesign along with ot
 
 The first project I worked on was a music video for the song "Fake" by Ranger in May 2021. I was the Director's Assistant and Production Assistant for Anti-Matter Productions. On the music video set, I got an opportunity to work with Dance Mom's Abby Lee Miller.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
