@@ -16,9 +16,9 @@ The first project I worked on was a music video for the song "Fake" by Ranger in
 
 ## Social
 
-Dribbble: https://dribbble.com/Davinese
-GitHub: https://github.com/davinnguyen
-Instagram: @Davinese
+Dribbble: https://dribbble.com/Davinese\
+GitHub: https://github.com/davinnguyen\
+Instagram: @Davinese\
 Twitter: @Davinese
 
 ## Markdown
