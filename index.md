@@ -10,7 +10,7 @@ When I was in 10th grade, I started learning to code using the Swift language. I
 
 Here are some newspaper layout that I helped create using InDesign along with other Adobe Suite programs. When I was Editor-in-Chief, I led an effort to drastically redesign the school newspaper. Here it is below
 
-### Production
+### Video Production
 
 The first project I worked on was a music video for the song "Fake" by Ranger in May 2021. I was the Director's Assistant and Production Assistant for Anti-Matter Productions. On the music video set, I got an opportunity to work with Dance Mom's Abby Lee Miller.
 
