@@ -1,6 +1,6 @@
 ## Welcome
 
-This is a portfolio that reflects my interests and expresses my ideas. 
+This is a portfolio that reflects my interests. 
 
 ### Software Developing
 
@@ -8,7 +8,7 @@ When I was in 10th grade, I started learning to code using the Swift language. I
 
 ### Newspaper
 
-Here are some newspaper layout that I helped create using InDesign along with other Adobe Suite programs. When I was Editor-in-Chief, I led an effort to drastically redesign the school newspaper. Here it is below
+Here are some newspaper layout that I helped create using InDesign along with other Adobe Suite programs
 
 ### Video Production
 
